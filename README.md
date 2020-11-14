@@ -26,7 +26,8 @@ Student can download the result in the PDF format.
 
 # Screen Shot
 
-![Optional Text](file:///C:/Users/om/Desktop/Screenshot/screenshot03.PNG)
+![alt text](file:///C:/Users/om/Desktop/Screenshot/screenshot03.PNG)
+
 
 
 
