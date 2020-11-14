@@ -6,7 +6,8 @@ This project is useful for students and institutions for getting the results in 
 # Technology Used
 
 Front end: HTML, CSS, JavaScript <br/>
-Back end: PHP, MySQL
+Back end: PHP, MySQL  <br/>
+Server: XAMP Server
 
 # Admin Features
 
@@ -16,8 +17,16 @@ Admin can add/update/ Subjects  <br/>
 Admin can add/update/ Active/Inactive Subject combination with class  <br/>
 Admin can register new student and also edit info of the student  <br/>
 admin can declare/ edit  result of a student  <br/>
-Admin can change own password
+Admin can change own password.
 
 # Student Features
 
 Student can search their result using valid rollid
+Student can download the result in the PDF format.
+
+# Screen Shot
+
+![Optional Text](C:\Users\om\Desktop\Screenshot\screenshot01.PNG)
+
+
+
