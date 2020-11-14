@@ -26,7 +26,7 @@ Student can download the result in the PDF format.
 
 # Screen Shot
 
-![alt text](file:///C:/Users/om/Desktop/Screenshot/screenshot03.PNG)
+![Alt text](file:///C:/Users/om/Desktop/Screenshot/screenshot03.PNG?raw=true "Title")
 
 
 
