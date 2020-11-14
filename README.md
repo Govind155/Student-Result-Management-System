@@ -26,7 +26,11 @@ Student can download the result in the PDF format.
 
 # Screen Shot
 
-Home Page 
 <p align="center"><b>Homepage</b></p>
 ![Optional Text](https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot01.PNG)
+
+<p align="center"><b>Homepage</b></p>
+![Optional Text](https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot01.PNG)
+
+
 
