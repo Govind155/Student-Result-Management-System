@@ -26,7 +26,8 @@ Student can download the result in the PDF format.
 
 # Screen Shot
 
-![Alt text](file:///C:/Users/om/Desktop/Screenshot/screenshot03.PNG?raw=true "Title")
+![Optional Text](https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot01.PNG)
+
 
 
 
