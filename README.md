@@ -21,7 +21,7 @@ Admin can change own password.
 
 # Student Features
 
-Student can search their result using valid rollid
+Student can search their result using valid rollid <br/>
 Student can download the result in the PDF format.
 
 # Screen Shot
