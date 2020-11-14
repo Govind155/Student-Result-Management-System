@@ -29,19 +29,3 @@ Student can download the result in the PDF format.
 <div align=”center”> [ Home Page ]</div>
 ![Optional Text](https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot01.PNG)
 
-<div align=”center”> [ Login ]</div>
-![Optional Text](https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot02.PNG)
-
-<div align=”center”> [ Dashboard | Manage Student ]</div>
-![Optional Text](https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot01.PNG)
-
-<div align=”center”> [ Dashboard | Enter Marks ]</div>
-![Optional Text](https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot04.PNG)
-
-<div align=”center”> [ Student Marks ]</div>
-![Optional Text](https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot05.PNG)
-
-
-
-
-
