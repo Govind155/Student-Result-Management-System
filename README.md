@@ -5,17 +5,17 @@ This project is useful for students and institutions for getting the results in 
 
 # Technology Used
 
-Front end: HTML, CSS, JavaScript
+Front end: HTML, CSS, JavaScript <br/>
 Back end: PHP, MySQL
 
 # Admin Features
 
-Admin Dashboard
-Admin can add/update/ Class
-Admin can add/update/ Subjects
-Admin can add/update/ Active/Inactive Subject combination with class
-Admin can register new student and also edit info of the student
-admin can declare/ edit  result of a student
+Admin Dashboard <br/>
+Admin can add/update/ Class <br/>
+Admin can add/update/ Subjects  <br/>
+Admin can add/update/ Active/Inactive Subject combination with class  <br/>
+Admin can register new student and also edit info of the student  <br/>
+admin can declare/ edit  result of a student  <br/>
 Admin can change own password
 
 # Student Features
