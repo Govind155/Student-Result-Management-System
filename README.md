@@ -24,7 +24,7 @@ Admin can change own password.
 Student can search their result using valid rollid <br/>
 Student can download the result in the PDF format.
 
-## ScreenShot
+## Screenshot
 
 <p align="center"><b>Homepage</b></p>
 <img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot01.PNG">
