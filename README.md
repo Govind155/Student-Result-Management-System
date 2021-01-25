@@ -29,16 +29,16 @@ Student can download the result in the PDF format.
 ### Homepage 
 <img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot01.PNG">
 
-<p align="center"><b>Login</b></p>
+### Login 
 <img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot02.PNG">
 
-<p align="center"><b>Dashboard | Manage Student </b></p>
+### Dashboard | Manage Student  
 <img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot03.PNG">
 
-<p align="center"><b>Dashboard | Enter Marks</b></p>
+### Dashboard | Enter Marks 
 <img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot04.PNG">
 
-<p align="center"><b>Student Marks</b></p>
+### Student Marks 
 <img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot05.PNG">
 
  
