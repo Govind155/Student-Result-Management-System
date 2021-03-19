@@ -15,7 +15,7 @@ Website is under construction. <br/>
 
 - Front end: HTML, CSS, JavaScript <br/>
 - Back end: PHP, MySQL  <br/>
-- Server: XAMP Server
+- Server: XAMPP Server
 
 ## Admin Features
 
