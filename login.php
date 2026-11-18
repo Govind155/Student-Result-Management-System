@@ -60,8 +60,10 @@
     {
         $username=$_POST["userid"];
         $password=$_POST["password"];
-        $sql = "SELECT userid FROM admin_login WHERE userid='$username' and password = '$password'";
-        $result=mysqli_query($conn,$sql);
+        $stmt = mysqli_prepare($conn, "SELECT userid FROM admin_login WHERE userid=? and password = ?");
+        mysqli_stmt_bind_param($stmt, "ss", $username, $password);
+        mysqli_stmt_execute($stmt);
+        $result=mysqli_stmt_get_result($stmt);
 
         // $row=mysqli_fetch_array($result);
         $count=mysqli_num_rows($result);
